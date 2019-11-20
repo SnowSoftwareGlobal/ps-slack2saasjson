@@ -17,4 +17,4 @@ Get hands on the How-To on [the Snow Globe](https://community.snowsoftware.com/d
 # Who is Snow Software?
 
 Snow Software is the global leader in technology intelligence solutions, ensuring that organizations drive the maximum value from their technology investments. Over 4,000 organizations rely on Snow to provide complete visibility, optimize usage and spend, and minimize regulatory risk.
-Find us on (https://www.snowsoftware.com)
+Find us on https://www.snowsoftware.com
