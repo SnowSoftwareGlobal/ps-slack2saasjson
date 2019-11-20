@@ -13,9 +13,10 @@ Get hands on the How-To on [the Snow Globe](https://community.snowsoftware.com/d
 5. Files which are correctly created can be consumed by the Snow Integration Manager - SaaS Generic Connector.
 6. Let us know if you want to contribute, or add another Template for a API you queried!
 
-## What is the SaaS - Generic Connector?
+# What is the SaaS - Generic Connector?
 
-While Snow Software has currently 25 + built-in SaaS Connectors to different Providers, the SaaS - Generic Connector allows you to add subscríptions, users and assignments from any vendor you want, as soon as you are able to put it into the jsonformat. That will require an installation of Snow License Manager.
+While Snow Software has currently 25 + built-in SaaS Connectors to different Providers, the SaaS - Generic Connector allows you to add subscríptions, users and assignments from any vendor you want, as soon as you are able to put it into the required json format. That will require an installation of Snow License Manager.
+
 ---
 # Who is Snow Software?
 
