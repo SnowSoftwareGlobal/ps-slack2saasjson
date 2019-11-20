@@ -15,7 +15,7 @@ Get hands on the How-To on [the Snow Globe](https://community.snowsoftware.com/d
 
 # What is the SaaS - Generic Connector?
 
-While Snow Software has currently 25 + built-in SaaS Connectors to different Providers, the SaaS - Generic Connector allows you to add subscríptions, users and assignments from any vendor you want, as soon as you are able to put it into the required json format. That will require an installation of Snow License Manager.
+While the Snow Integration Manager has currently 25 + built-in SaaS Connectors to different Providers, the SaaS - Generic Connector allows you to add subscríptions, users and assignments from any vendor you want, as soon as you are able to put it into the required json format. That will require an installation of Snow License Manager.
 
 ---
 # Who is Snow Software?
