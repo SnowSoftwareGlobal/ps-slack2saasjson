@@ -4,6 +4,10 @@ Query Slack Api and make it fit into the SaaS - Generic Connector's Json format
 
 Get hands on the How-To on [the Snow Globe](https://community.snowsoftware.com/docs/DOC-1671 "the Snow Globe") to learn, how to get started, or how to set up your SLACK Workspace with it.
 
+# What is the SaaS - Generic Connector?
+
+While the Snow Integration Manager has currently 25 + built-in SaaS Connectors to different Providers, the SaaS - Generic Connector allows you to add subscríptions, users and assignments from any vendor you want, as soon as you are able to put it into the required json format. That will require an installation of Snow License Manager.
+
 ## How to use it
 
 1. Clone this repository
@@ -12,10 +16,6 @@ Get hands on the How-To on [the Snow Globe](https://community.snowsoftware.com/d
 4. The schema file is Part of the Snow Integration Manager.
 5. Files which are correctly created can be consumed by the Snow Integration Manager - SaaS Generic Connector.
 6. Let us know if you want to contribute, or add another Template for a API you queried!
-
-# What is the SaaS - Generic Connector?
-
-While the Snow Integration Manager has currently 25 + built-in SaaS Connectors to different Providers, the SaaS - Generic Connector allows you to add subscríptions, users and assignments from any vendor you want, as soon as you are able to put it into the required json format. That will require an installation of Snow License Manager.
 
 ---
 # Who is Snow Software?
