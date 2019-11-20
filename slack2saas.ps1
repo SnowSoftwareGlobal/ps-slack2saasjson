@@ -1,7 +1,7 @@
 ﻿#region configuration
 $saas_Instance = "https://slack.com" ## basic url of the api
 $saas_outputfolder = "C:\Temp" ## folder to store the results - no trailing backspace please
-$script:saas_logfile = $saas_outputfolder + "\servicenowquery.log"
+$script:saas_logfile = $saas_outputfolder + "\slack2json.log"
 $script:saas_exportfile = $saas_outputfolder + "\slack.json"
 
 ## authentification stuff
