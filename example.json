@@ -1,0 +1,41 @@
+{
+	"Subscriptions": [
+		{
+			"ID": "User subscription for 870f902f-ac4a-4789-963c-e01896f6106e",
+			"UserCap": 100,
+			"AvailableSeats": 98,
+			"MeteringType": "PerAssignedUser",
+			"Created": "2009-06-15T13:45:30",
+			"Type": {
+				"ID": "example_subscription_id",
+				"Name": "Example user subscription"
+			},
+			"UserIds": [
+				"john.doe@snowsoftware.com",
+				"jane.doe@snowsoftware.com"
+			]
+		}
+	],
+	"Users": [
+		{
+			"Id": "john.doe@snowsoftware.com",
+			"Email": "john.doe@snowsoftware.com",
+			"UserName": "johndoe",
+			"Name": "John Doe",
+			"Status": "Active",
+			"FirstActivity": "2017-08-22T17:22:17",
+			"LastActivity": "2019-09-16T17:22:17",
+			"Registration": "2017-08-22T17:22:17"
+		},
+		{
+			"Id": "jane.doe@snowsoftware.com",
+			"Email": "jane.doe@snowsoftware.com",
+			"UserName": "janedoe",
+			"Name": "Jane Doe",
+			"Status": "Active",
+			"FirstActivity": "2017-08-22T17:22:17",
+			"LastActivity": "2019-08-25T17:22:17",
+			"Registration": "2017-08-22T17:22:17"
+		}
+	]
+}
