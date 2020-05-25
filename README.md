@@ -2,7 +2,7 @@
 
 Query Slack Api and make it fit into the SaaS - Generic Connector's Json format
 
-Get hands on the How-To on [the Snow Globe](https://community.snowsoftware.com/docs/DOC-1671 "the Snow Globe") to learn, how to get started, or how to set up your SLACK Workspace with it.
+Get hands on the How-To on [the Snow Globe](https://community.snowsoftware.com/s/feed/0D51r00008WdbN1CAJ "the Snow Globe") to learn, how to get started, or how to set up your SLACK Workspace with it.
 
 # What is the SaaS - Generic Connector?
 
