@@ -1,0 +1,26 @@
+# This workflow calls a Reusable Workflow which scans a Generic project with SonarQube
+# The Reusable Workflow can be found here:
+# https://github.com/SnowSoftwareGlobal/devops-workflow-sonarqube-generic
+# Usage and requirements for using the workflow can be found here:
+# https://github.com/SnowSoftwareGlobal/devops-workflow-sonarqube-generic/blob/main/README.md#usage
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+  push:
+    branches:
+      - 'main'
+      - 'master'
+      - 'develop'
+      - 'release'
+
+name: SonarQube Scan - Generic
+jobs:
+  sonarqube-scan:
+    uses: SnowSoftwareGlobal/devops-workflow-sonarqube-generic/.github/workflows/sonarqube-generic.yml@v1 
+    secrets: inherit # pass all secrets (https://docs.github.com/en/actions/using-workflows/reusing-workflows#using-inputs-and-secrets-in-a-reusable-workflow)
+    # There are some custom inputs you can use, uncomment the lines below to use them
+    # with:
+      # If the project is located somewhere other than the root directory, spec it here
+      # Default: '.'
+      # project-path: '' 

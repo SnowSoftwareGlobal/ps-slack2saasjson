@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ps-slack2saasjson
+  annotations:
+    github.com/project-slug: SnowSoftwareGlobal/ps-slack2saasjson
+    devops.io/handled-by: repo-as-code
+    devops.io/version: v1
+    sonarqube.org/project-key: ps-slack2saasjson
+    circleci.com/project-slug: github/SnowSoftwareGlobal/ps-slack2saasjson
+  tags:
+    - cloud
+    - az-ug-github-research
+spec:
+  type: service
+  lifecycle: unknown
+  owner: default/az-ug-github-research
